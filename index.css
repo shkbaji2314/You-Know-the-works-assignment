@@ -1,0 +1,174 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-container {
+  background-color: #fba4ab;
+  background-size: cover;
+  padding-bottom: 30px;
+}
+
+.font-icon {
+  font-size: 25px;
+  color: #3c387d;
+}
+
+.icon-title {
+  font-size: 6px;
+  font-family: Roboto;
+  color: #3c387d;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+.profile-border {
+  border-color: #3c387d;
+  width: 50px;
+  height: 50px;
+  border-radius: 40px;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.profile-name {
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: bold;
+  color: #3c387d;
+}
+
+.profile-role {
+  font-size: 5px;
+  font-family: Roboto;
+  color: #3c386d;
+  font-weight: bold;
+}
+
+.li-1 {
+  width: 2px;
+  background-color: #3c387d;
+  height: 105px;
+  position: absolute;
+  left: 50%;
+  margin-top: 4px;
+}
+
+.address {
+  font-size: 5px;
+  font-family: Roboto;
+  font-weight: 500;
+  color: #3c387d;
+}
+
+.li-2 {
+  width: 77%;
+  background-color: #3c386d;
+  height: 2px;
+  position: absolute;
+  left: 20%;
+  margin-top: 2px;
+}
+
+.hr-line {
+  border-color: #3c387d;
+  border-width: 2px;
+}
+
+.skill1 {
+  font-size: 4px;
+  font-family: Roboto;
+  color: #3c387d;
+  font-weight: 500;
+  padding-right: 15px;
+}
+
+.skill2 {
+  font-size: 4px;
+  font-family: Roboto;
+  color: #3c387d;
+  font-weight: 500;
+  padding-right: 35px;
+}
+
+.skill3 {
+  font-size: 4px;
+  font-family: Roboto;
+  color: #3c387d;
+  font-weight: 500;
+  padding-right: 25px;
+}
+
+.skill4 {
+  font-size: 4px;
+  font-family: Roboto;
+  color: #3c387d;
+  font-weight: 500;
+  padding-right: 25px;
+}
+
+.skill5 {
+  font-size: 4px;
+  font-family: Roboto;
+  color: #3c387d;
+  font-weight: 500;
+  padding-right: 20px;
+}
+
+.dot {
+  width: 4px;
+  height: 4px;
+  background-color: #3c387d;
+  border-radius: 50%;
+  margin-left: 2px;
+}
+
+.a-head {
+  font-size: 4px;
+  font-family: Roboto;
+  color: #3c387d;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+.a-desc {
+  font-size: 4px;
+  font-family: Roboto;
+  color: #3c387d;
+  font-weight: 500;
+  margin-top: 8px;
+}
+
+.li-4 {
+  width: 270px;
+  background-color: #3c387d;
+  height: 2px;
+  position: absolute;
+  left: 20%;
+  margin-bottom: 4px;
+}
+
+.li-3 {
+  width: 2px;
+  background-color: #3c387d;
+  height: 132px;
+  position: absolute;
+  left: 50%;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
+
+.icon-container {
+  background-color: #3c387d;
+  width: 50px;
+  height: 50px;
+  border-radius: 40px;
+  margin-left: 2px;
+}
+
+.icon {
+  color: #fba3ab;
+  font-size: 25px;
+}
